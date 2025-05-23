@@ -1,0 +1,13 @@
+Window 1280 720 60 0
+Font Arial font/arial.ttf 24 255 255 255
+
+Tile Brick img/tile_brick.png
+Tile Grass img/tile_grass.png
+Tile Water img/tile_water.png
+Player Idle img/player_idle.png
+Player Run img/player_run.png
+Player Jump img/player_jump.png
+Enemy Left img/enemy_left.png
+Enemy Right img/enemy_right.png
+Bullet Fireball img/bullet_fireball.png
+Background Background img/background.png
